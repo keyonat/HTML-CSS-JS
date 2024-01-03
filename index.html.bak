@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+
+<html lang="en">
+	<!--  This is the root element that defines the docs primary language
+	- language is set to english-->
+ <head>
+	<title> Hello </title>
+  <!-- The title appears in the tab of the web browser it 
+		identifies the website for the user-->
+	<meta charset="UTF-8">
+  <!-- The document's character encoding format is defined by assigning a standard character-set code to a charset 
+       attribute within a <meta> tag placed in the documents head section. The recommended encoding is the popular 8-bit 
+	   unicode Transformation Format for which the code is UTF-8 -->
+ </head>
+ 
+ 
+ <body>
+  <!-- Content in the browswe goes here so that users can see it-->
+  <h1> Hello World! </h1>
+ </body>
+ 
+</html>
